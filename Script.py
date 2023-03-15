@@ -148,7 +148,7 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ABHAY
 • ᴜꜱᴇʀɴᴀᴍᴇ : @THESavageBOe
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/THESavageBOe'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
@@ -195,7 +195,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addthemE/AA_PVT">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
